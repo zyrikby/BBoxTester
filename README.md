@@ -39,11 +39,11 @@ which are required for application operation.
 In BBoxTester folder:
 
 1. Scripts main_activity_strategy.py, main_intents_strategy.py and 
-monkey_run_one_apk.py contains example of the scripts we used for experiments.
+monkey_run_one_apk.py contain examples we used for experiments.
 2. bboxtester.py shows different options how the tool can be used.
 3. running_strategies.py describes the strategies currently implemented for
 the application testing.
-4. bboxcoverage.py contains a class that compose different auxiliary utilities.
+4. bboxcoverage.py contains the main class.
 
 
 
