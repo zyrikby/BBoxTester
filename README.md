@@ -31,24 +31,19 @@ please use the following bibtex reference to cite our paper:
 ``` 
 
 
-##Usage
-Our tool consists of two parts: a server and a client. The server side of
-StaDynA is a Python program that interacts with a static analysis tool. 
-Currently, StaDynA uses AndroGuard as a static analyzer. The client side is the
-code run either on a real device or on an emulator.
+##Repository Description
+BBoxTester folder contains main resources of the application, while 
+BBoxTester_Instr_Sources directory stores only code for the auxiliary classes
+which are required for application operation.
 
-The instructions how to build client side can be found in the corresponding 
-folder.
+In BBoxTester folder:
+1. Scripts main_activity_strategy.py, main_intents_strategy.py and 
+monkey_run_one_apk.py contains example of the scripts we used for experiments.
+2. bboxtester.py shows different options how the tool can be used.
+3. running_strategies.py describes the strategies currently implemented for
+the application testing.
+4. bboxcoverage.py contains a class that compose different auxiliary utilities.
 
-To run the analysis of an Android application, after connecting a device running
-client side, execute the server side Python script:
-
-```
-python stadyna.py -i <inputApk> -o <resultFolder>
-```
-
-where *inputApk* is a path to the apk file to be analyzed, and *resultFolder* is
-the path where the results of the analysis will be stored.
 
 
 ##Dependencies
