@@ -37,6 +37,7 @@ BBoxTester_Instr_Sources directory stores only code for the auxiliary classes
 which are required for application operation.
 
 In BBoxTester folder:
+
 1. Scripts main_activity_strategy.py, main_intents_strategy.py and 
 monkey_run_one_apk.py contains example of the scripts we used for experiments.
 2. bboxtester.py shows different options how the tool can be used.
