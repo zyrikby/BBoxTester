@@ -25,7 +25,7 @@ please use the following bibtex reference to cite our paper:
     booktitle={2015 Tenth International Conference on Availability, Reliability and Security (ARES)},
     year={2015}, 
     month={August}, 
-    pages={to appear}
+    pages={501-510}
 }
 
 ``` 
