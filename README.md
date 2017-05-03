@@ -1,6 +1,6 @@
-#Towards Black Box Testing of Android Apps
+# Towards Black Box Testing of Android Apps
 
-##Description
+## Description
 BBoxTester is a framework able to generate code coverage reports and produce 
 uniform coverage metrics in testing of the Android applications when the source
 code of them is not available.
@@ -10,7 +10,7 @@ This work has been done at the University of Trento.
 
 
 
-##Publication
+## Publication
 The results of our research will be presented at the 2nd International Workshop 
 on Software Assurance (SAW '15) to be held in conjunction with the 
 10th International Conference on Availability, Reliability and Security 
@@ -31,7 +31,7 @@ please use the following bibtex reference to cite our paper:
 ``` 
 
 
-##Repository Description
+## Repository Description
 BBoxTester folder contains main resources of the application, while 
 BBoxTester_Instr_Sources directory stores only code for the auxiliary classes
 which are required for application operation.
@@ -47,7 +47,7 @@ the application testing.
 
 
 
-##Dependencies
+## Dependencies
 1. [Apktool](https://github.com/iBotPeaches/Apktool) released under Apache-2.0 
 License.
 2. [dex2jar](https://github.com/pxb1988/dex2jar) released under Apache-2.0 
@@ -58,6 +58,6 @@ Apache-2.0 Lisence.
 
 
 
-##License
+## License
 The tool is distributed under Apache-2.0 license. The citation of the paper is 
 highly appreciated. 
