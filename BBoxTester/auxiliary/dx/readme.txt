@@ -1,1 +1,0 @@
-dx.jar is copied from android sdk build-tools version 19.1.0
