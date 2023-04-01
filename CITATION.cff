@@ -32,8 +32,10 @@ preferred-citation:
     given-names: "Bruno"
   - family-names: "Massacci"
     given-names: "Fabio"
+  collection-title: "10th International Conference on Availability, Reliability and Security"
+  collection-type: "proceedings"
   conference:
-    name: "10th International Conference on Availability, Reliability and Security"
+    name: "ARES"
   doi: "10.1109/ARES.2015.70"
   start: 501 # First page number
   end: 510 # Last page number
