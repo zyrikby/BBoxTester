@@ -1,0 +1,40 @@
+title: BBoxTester
+abstract: Tool to measure code coverage of Android applications when their source code is not available.
+authors:
+  - family-names: Zhauniarovich
+    given-names: Yury
+    orcid: "https://orcid.org/0000-0001-9116-0728"
+cff-version: 1.2.0
+date-released: "2015-06-11"
+identifiers:
+  - type: url
+    value: "https://github.com/zyrikby/BBoxTester/tree/fa7684f8094c6523e1b69d8ac15796562e8a940c"
+    description: Latest version
+keywords:
+  - research
+  - Android
+  - "black-box"
+  - "code coverage"
+license: Apache-2.0
+message: If you use this software, please cite it using these metadata.
+repository-code: "https://github.com/zyrikby/BBoxTester"
+preferred-citation:
+  title: "Towards Black Box Testing of Android Apps"
+  type: conference-paper
+  authors:
+  - family-names: "Zhauniarovich"
+    given-names: "Yury"
+  - family-names: "Philippov"
+    given-names: "Anton"
+  - family-names: "Gadyatskaya"
+    given-names: "Olga"
+  - family-names: "Crispo"
+    given-names: "Bruno"
+  - family-names: "Massacci"
+    given-names: "Fabio"
+  conference:
+    name: "10th International Conference on Availability, Reliability and Security"
+  doi: "10.1109/ARES.2015.70"
+  start: 501 # First page number
+  end: 510 # Last page number
+  year: 2015
